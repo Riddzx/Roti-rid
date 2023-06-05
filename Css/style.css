@@ -360,4 +360,7 @@ footer .links a {
   html {
     font-size: 75%;
   }
+  .navbar .navbar-nav.active {
+   width: 50%; 
+  }
 }
