@@ -310,6 +310,7 @@ footer .links a {
 
   .navbar .navbar-nav.active {
     right: 0;
+    width: 50%;
   }
 
   .navbar .navbar-nav a {
@@ -354,7 +355,7 @@ footer .links a {
     padding-top: 1rem;
   }
 }
-/* SmartPhoner */
+/* SmartPhone */
 @media (max-width: 450px) {
   html {
     font-size: 75%;
